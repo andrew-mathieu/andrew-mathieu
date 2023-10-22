@@ -10,12 +10,6 @@ I have a background as a music producer, I still do it sometimes but I don't enj
 
 ![Skills](https://skillicons.dev/icons?i=nuxtjs,vue,nextjs,react,mongodb,nodejs,styledcomponents,astro,express,vite,webpack,vercel,threejs,tensorflow,svelte,supabase,sass,prisma,postman,netlify,docker,cloudflare,bash,js,ts&theme=light)
 
-## 📦 - Projects
-
-I'm not very active on GitHub and rarely post repos because most of the projects I'm on are confidential. But I plan to release more projects in the coming months.
-
-In the meantime, you can check out [Prospectools](https://github.com/andrew-mathieu/prospectools) which is a little project I made in only a few hours which allows me to prospect more easily.
-
 ## Socials
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noonedrewandy)
