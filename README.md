@@ -6,7 +6,7 @@ Humanist designer born in 2000 in Charleroi, Belgium, where my curiosity for art
 
 ## STACKS
 
-![Skills]([https://skillicons.dev/icons?i=nuxtjs,vue,nextjs,react,mongodb,nodejs,styledcomponents,astro,express,adonis,vite,webpack,vercel,threejs,tensorflow,svelte,supabase,sass,prisma,postman,netlify,docker,cloudflare,bash,js,ts&theme=light](https://skillicons.dev/icons?i=figma,photoshop,illustrator,html,css,js,typescript,tailwind,nuxt,vue,nextjs,react,mongodb,postgresql,nodejs,styledcomponents,astro,adonis,express,vite,webpack,vercel,threejs,tensorflow,svelte,bun,supabase,sass,prisma,postman,netlify,docker,cloudflare,bash&theme=light))
+![Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,html,css,js,typescript,tailwind,nuxt,vue,nextjs,react,mongodb,postgresql,nodejs,styledcomponents,astro,adonis,express,vite,webpack,vercel,threejs,tensorflow,svelte,bun,supabase,sass,prisma,postman,netlify,docker,cloudflare,bash&theme=light)
 
 
 
