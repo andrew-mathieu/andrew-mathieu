@@ -1,5 +1,3 @@
-![Header image](https://i.imgur.com/cel3BTG.png)
-
 # ANDREW_MATHIEU (AMTH)
 
 Humanist designer born in 2000 in Charleroi, Belgium, where my curiosity for art and storytelling was nurtured. After studying applied arts and completing a commerce apprenticeship, I co-founded Appshine with Verdi, collaborating with international professionals. My journey led me to roles as a UI/UX designer at AskMora and webmaster for Stop Harcèlement Ferroviaire, deepening my passion for human-centered digital solutions. Today, with expertise in React, Vue, Nuxt, and GSAP, I thrive on crafting intuitive digital experiences driven by empathy and a desire to create meaningful impact.
